@@ -1,0 +1,3 @@
+HQ: High-quality posts with 30+ score and without a single edit.
+LQ_EDIT: Low-quality posts with a negative score and with multiple community edits. However, they still remain open after the edits.
+LQ_CLOSE: Low-quality posts that were closed by the community without a single edit.
